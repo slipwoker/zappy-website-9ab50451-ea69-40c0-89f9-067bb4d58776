@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://localcloud-co-il-9ab50451.zappy5.app
+https://example.com
 גלה את השירות המוביל בישראל לאחסון בענן – משלב אמינות מקומית עם טכנולוגיית ענן מתקדמת. שדרג את הגיבוי שלך היום וקבל נפח אחסון שמתאים בדיוק לצרכים שלך.
 
 ### שירותים
-https://localcloud-co-il-9ab50451.zappy5.app/services
+https://example.com/services
 מחפש שירותי אחסון בענן שמשתלבים בצורה מושלמת עם הסמסונג שלך? גלוש במגוון המסלולים שלנו, השווה עלויות iCloud וגלה איך להרחיב את הזיכרון בקלות ובמהירות.
 
 ### אודות
-https://localcloud-co-il-9ab50451.zappy5.app/about
+https://example.com/about
 הכירו את הצוות המקומי שמאחורי שירותי האחסון המתקדמים בישראל. אנחנו מביאים ניסיון, שקיפות ותמיכה אישית לכל לקוח – כי המידע שלכם ראוי לבית אמיתי.
 
 ### צור קשר
-https://localcloud-co-il-9ab50451.zappy5.app/contact
+https://example.com/contact
 יש שאלה על תמחור iCloud או צורך בהתאמת שירות אישי? צרו קשר עוד היום עם מומחי האחסון בענן שלנו וקבלו ייעוץ חינם והצעה משתלמת במיוחד עבורכם.
 
 ### Products
-https://localcloud-co-il-9ab50451.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - LocalCloud.co.il
 
 ### Cart
-https://localcloud-co-il-9ab50451.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://localcloud-co-il-9ab50451.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://localcloud-co-il-9ab50451.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://localcloud-co-il-9ab50451.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://localcloud-co-il-9ab50451.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://localcloud-co-il-9ab50451.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - LocalCloud.co.il
 
 ### Category
-https://localcloud-co-il-9ab50451.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - LocalCloud.co.il
 
 ### תודה שפניתם אלינו
-https://localcloud-co-il-9ab50451.zappy5.app/thank-you
+https://example.com/thank-you
 LocalCloud.co.il - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://localcloud-co-il-9ab50451.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://localcloud-co-il-9ab50451.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://localcloud-co-il-9ab50451.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Cloud Storage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://localcloud-co-il-9ab50451.zappy5.app/sitemap.xml
-- Robots: https://localcloud-co-il-9ab50451.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://localcloud-co-il-9ab50451.zappy5.app/llms-full.txt
-- Products (JSON): https://localcloud-co-il-9ab50451.zappy5.app/products.json
-- Products (Google Merchant RSS): https://localcloud-co-il-9ab50451.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
